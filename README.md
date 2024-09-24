@@ -12,3 +12,4 @@ The main objective of the game is to find three key clues that reveal the truth 
 - **W, A, S, D**: Movement
 - **Shift**: Run
 - **Space**: Jump
+- **E**: Interact
