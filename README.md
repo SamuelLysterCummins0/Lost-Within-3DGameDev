@@ -1,4 +1,4 @@
-# Lost-Within-3DGameDev
+# Lost-Within
 ![image](https://github.com/user-attachments/assets/0466b537-533f-453c-91a4-18209f963ff9)
 
 ## Game File: [ https://drive.google.com/file/d/1SG-bfNyJ7Zq4q5jGjjJQPb1AfrEHRB95/view?usp=sharing ]
